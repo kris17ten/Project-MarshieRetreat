@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5b13751e0f86fb34eb9ac34f6959cd97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - character: {instanceID: 0}
+  - noPoolObj: {instanceID: 0}
+  - poolMidObj: {instanceID: 0}
+  - poolLeftObj: {instanceID: 0}
+  - poolRightObj: {instanceID: 0}
+  - bridgeObj: {fileID: 4260060621411584, guid: d539e310623be5e40b497ef67eb11758,
+      type: 2}
+  - sugarCubeObj: {instanceID: 0}
+  - gumBallObj: {instanceID: 0}
+  - glowCandyObj: {instanceID: 0}
+  - coinObj: {instanceID: 0}
+  - chocoBarObj: {instanceID: 0}
+  - rockObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
